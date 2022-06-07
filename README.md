@@ -1,5 +1,6 @@
-# mame2010_cheat
-Cheats for MAME2010 (compatible with MAME 0.139 sets)
+# Cheats for MAME 2010 for EmuELEC (by ThunderDJr)
+Compatible with MAME 0.139 sets
+
 
 Extrai o arquivo cheat.zip para a pasta
 
